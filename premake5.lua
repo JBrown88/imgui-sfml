@@ -1,4 +1,4 @@
-project "ImGui"
+project "ImGui_SFML"
 	kind "StaticLib"
 	language "C++"
 	toolset ("v142")
@@ -58,7 +58,8 @@ project "ImGui"
 			"sfml-graphics-s-d.lib",
 			"sfml-window-s-d.lib",
 			"sfml-system-s-d.lib",
-			"opengl32.lib",
+			"opengl32.lib",			
+            "ImGui",
 		}
 
 	filter "configurations:Release"
@@ -72,6 +73,7 @@ project "ImGui"
             "sfml-window-s.lib",
 			"sfml-system-s.lib",
 			"opengl32.lib",
+            "ImGui",
 		}
 
 	filter "configurations:Ship"
@@ -85,4 +87,5 @@ project "ImGui"
             "sfml-window-s.lib",
 			"sfml-system-s.lib",
 			"opengl32.lib",
+            "ImGui",
 		}
