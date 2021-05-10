@@ -1,0 +1,2 @@
+D:\dev\Brownie\Brownie\vendor\imgui-SFML\bin\Debug-windows-x86_64\ImGui_SFML\ImGui_SFML.pdb
+D:\dev\Brownie\Brownie\vendor\imgui-SFML\bin-temp\Debug-windows-x86_64\ImGui_SFML\ImGui_SFML.pdb

@@ -1,0 +1,3 @@
+﻿cl : command line warning D9025: overriding '/MTd' with '/MDd'
+  imgui-SFML.cpp
+  ImGui_SFML.vcxproj -> D:\dev\Brownie\Brownie\vendor\imgui-SFML\bin\Debug-windows-x86_64\ImGui_SFML\ImGui_SFML.lib
